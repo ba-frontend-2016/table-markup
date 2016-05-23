@@ -1,0 +1,27 @@
+.cell {
+    background-color: #aaa;
+    width: 30px;
+    height: 40px;
+    border: 1px solid;
+    background-color: white;
+}
+.row {
+    height: 20px;
+}
+.yellow {
+    background-color: yellow;
+}
+.red {
+    background-color: red;
+}
+.black {
+    background-color: black;
+}
+.blue {
+    background-color: blue;
+}
+table {
+    width: 500px;
+    border: 1px solid;
+    border-spacing: 0;
+}
